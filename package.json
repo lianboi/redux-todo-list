@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lianboi/redux-todo-list/issues"
   },
-  "homepage": "https://github.com/lianboi/redux-todo-list#readme"
+  "homepage": "https://github.com/lianboi/redux-todo-list#readme",
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
 }
